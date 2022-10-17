@@ -1,0 +1,30 @@
+.main {
+    background-image: url("../images/apple-pie.jpg") ;
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 90vh;
+    font-size: xx-large;
+    color: white;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-left: 0;
+    margin-right: 0;
+    
+
+}
+.line1 {
+    height: 1px;
+    background: black;
+  }
+.rex {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
